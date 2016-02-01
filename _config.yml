@@ -1,0 +1,28 @@
+name: architecture photogaphy
+favicon: null
+layout_spectrum: 0.3545219216030091
+typography_spectrum: 0.006912616081535816
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4060582264792174
+  lightness: 0.7834633549209684
+  saturation: 0.3239196182694286
+  rhythmicContrast: 0.09119505318813026
+purpose: []
