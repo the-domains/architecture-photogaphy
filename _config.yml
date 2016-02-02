@@ -1,40 +1,40 @@
-name: architecture photogaphy
+layout_spectrum: 0.5067453
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.25125
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
+name: architecture photogaphy
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      paginate: true
+      path: /
+      number: 15
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.5
+  brandStrength: 0.5101181
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
-purpose: []
+  brandColors:
+    - '#02000D'
+    - '#BDBECE'
+    - '#D07F6E'
+    - '#6D6F88'
+    - '#9A0227'
+typography_spectrum: 0.4814503
